@@ -57,7 +57,8 @@ In **probability-calculator**.
 
 ## Certification
 
-![image](https://github.com/Klesse/freecodecamp-scientific-python/assets/62315031/fe1068c3-1186-4ee0-928e-a2eb56b6c967)
+![image](https://github.com/Klesse/freecodecamp-scientific-python/assets/62315031/3f40db08-aa83-46a2-89ed-f4c75b1abf70)
+
 
 
 ## Author
